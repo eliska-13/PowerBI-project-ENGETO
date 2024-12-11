@@ -1,4 +1,6 @@
 # Power BI projekt - ENGETO
+*Kontakt na discord: Eliska-13*
+
 *Projekt jsem vytvořila v rámci kurzu Datová Akademie od [ENGETO](https://engeto.cz/).*
 
 Tento report zobrazuje štěstí v evropských státech v letech 2005–2024.
